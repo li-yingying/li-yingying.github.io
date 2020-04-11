@@ -7,4 +7,4 @@ favicon: ./images/favicon.png
 favicon_dark: ./images/favicon.png
 description: Yingying Li is a fifth year Ph.D. candidate at Harvard SEAS. She is working with Prof. Na Li. Her research lies in online learning, multi-armed bandit, reinforcement learning, decentralized control, and mechanism design with applications in smart grid.
 canonical: https://yingying.li/
-remote_theme: yaoyao-liu/minimal-academic
+remote_theme: yaoyao-liu/minimal-light
