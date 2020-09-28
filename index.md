@@ -15,7 +15,8 @@ My research lies in online learning, multi-armed bandit, reinforcement learning,
   **Yingying Li**, [Na Li](https://nali.seas.harvard.edu/)
   <br>
   *Thirty-fourth Conference on Neural Information Processing Systems **(NeurIPS)**, 2020.*
-  [[PDF](https://yingying.li/files/Leveraging_predictions_in_smoothed_online_convex_optimization_via_gradient_based_algorithms.pdf)]
+  <br>
+  [[PDF](https://yingying.li/files/neurips2020.pdf)]
 
 - **A Reliability-awareMulti-armed Bandit Approach to Learn and Select Users in Demand Response**
   <br>
