@@ -16,7 +16,7 @@ My research lies in online learning, multi-armed bandit, reinforcement learning,
   <br>
   *Thirty-fourth Conference on Neural Information Processing Systems **(NeurIPS)**, 2020.*
   <br>
-  [[PDF](https://yingying.li/files/neurips2020.pdf)]
+  [[PDF](https://yingying.li/files/NeurIPS2020.pdf)]
 
 - **A Reliability-awareMulti-armed Bandit Approach to Learn and Select Users in Demand Response**
   <br>
