@@ -10,11 +10,26 @@ My research lies in online learning, multi-armed bandit, reinforcement learning,
 
 ## Publications
 
-- **Learning and Selecting Users for Achieving Reliability in Demand Response: A Multi-armed Bandit Approach**
+- **Leveraging Predictions in Smoothed Online Convex Optimization via Gradient-based Algorithms**
+  <br>
+  **Yingying Li**, [Na Li](https://nali.seas.harvard.edu/)
+  <br>
+  *Thirty-fourth Conference on Neural Information Processing Systems **(NeurIPS)**, 2020.*
+  [[PDF](https://yingying.li/files/Leveraging_predictions_in_smoothed_online_convex_optimization_via_gradient_based_algorithms.pdf)]
+
+- **A Reliability-awareMulti-armed Bandit Approach to Learn and Select Users in Demand Response**
   <br>
   **Yingying Li**, [Qinran Hu](http://huqinran.com/), [Na Li](https://nali.seas.harvard.edu/)
   <br>
-  *Under review.*
+  *Accepted to **Automatica***
+  [[PDF](https://arxiv.org/pdf/2003.09505.pdf)]
+  
+- **Distributed Reinforcement Learning for Decentralized Linear Quadratic Control: A Derivative-Free Policy Optimization Approach**
+  <br>
+  **Yingying Li**, Yujie Tang, Runyu Zhang, [Na Li](https://nali.seas.harvard.edu/)
+  <br>
+  *2nd Annual Conference on Learning for Dynamics and Control*
+  [[PDF](https://arxiv.org/pdf/1912.09135.pdf)]
 
 - **Online Optimal Control with Linear Dynamics and Predictions: Algorithms and Regret Analysis**
   <br>
