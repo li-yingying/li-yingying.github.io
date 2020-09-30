@@ -18,7 +18,7 @@ My research lies in online learning, multi-armed bandit, reinforcement learning,
   <br>
   [[PDF](https://yingying.li/files/NeurIPS2020.pdf)]
 
-- **A Reliability-awareMulti-armed Bandit Approach to Learn and Select Users in Demand Response**
+- **A Reliability-aware Multi-armed Bandit Approach to Learn and Select Users in Demand Response**
   <br>
   **Yingying Li**, [Qinran Hu](http://huqinran.com/), [Na Li](https://nali.seas.harvard.edu/)
   <br>
