@@ -8,6 +8,7 @@ I am a sixth year Ph.D. candidate at [Harvard SEAS](https://www.seas.harvard.edu
 
 My research lies in online convex optimization, online optimal control, reinforcement learning, multi-armed bandit, decentralized control, and mechanism design with applications in smart grid.
 
+
 ## Publications
 
 - **Online Optimization with Predictions and Switching Costs: Fast Algorithms and the Fundamental Limit**
@@ -82,3 +83,8 @@ My research lies in online convex optimization, online optimal control, reinforc
   [Michael Small](https://www.uwa.edu.au/profile/michael-small), **Yingying Li**, Thomas Stemler, Kevin Judd
   <br>
   *Physical Review E 91, no. 4 (2015): 042801* [[PDF](https://scholar.harvard.edu/files/yingyingli/files/2014-1.pdf)]
+  
+  ## Industrial Experience
+  
+  I was a research intern at MIT-IBM Watson AI Lab during the summer of 2020 working with [Subhro Das](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Subhro.Das).
+
