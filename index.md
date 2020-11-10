@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a sixth year Ph.D. candidate at [Harvard SEAS](https://www.seas.harvard.edu/). I'm working with [Prof. Na Li](https://nali.seas.harvard.edu/).
+I am a Ph.D. candidate at [Harvard SEAS](https://www.seas.harvard.edu/). I'm working with [Prof. Na Li](https://nali.seas.harvard.edu/).
 
 My research lies in online convex optimization, online optimal control, reinforcement learning, multi-armed bandit, decentralized control, and mechanism design with applications in smart grid.
 
