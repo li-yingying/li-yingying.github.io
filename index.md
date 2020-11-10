@@ -84,6 +84,6 @@ My research lies in online convex optimization, online optimal control, reinforc
   <br>
   *Physical Review E 91, no. 4 (2015): 042801* [[PDF](https://scholar.harvard.edu/files/yingyingli/files/2014-1.pdf)]
   
-## Industrial Experience
+## Industry Experience
 - Summer 2020: Research Intern  at MIT-IBM Watson AI Lab working with [Subhro Das](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Subhro.Das).
 
