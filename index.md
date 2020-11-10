@@ -4,11 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a fifth year Ph.D. candidate at [Harvard SEAS](https://www.seas.harvard.edu/). I'm working with [Prof. Na Li](https://nali.seas.harvard.edu/).
+I am a sixth year Ph.D. candidate at [Harvard SEAS](https://www.seas.harvard.edu/). I'm working with [Prof. Na Li](https://nali.seas.harvard.edu/).
 
-My research lies in online learning, multi-armed bandit, reinforcement learning, decentralized control, and mechanism design with applications in smart grid.
+My research lies in online convex optimization, online optimal control, reinforcement learning, multi-armed bandit, decentralized control, and mechanism design with applications in smart grid.
 
 ## Publications
+
+- **Online Optimization with Predictions and Switching Costs: Fast Algorithms and the Fundamental Limit**
+  <br>
+  **Yingying Li**, [Guannan Qu](http://gqu.people.caltech.edu/), [Na Li](https://nali.seas.harvard.edu/)
+  <br>
+  *Accepted by IEEE Transactions on Automatic Control **(TAC)**. 2020.* 
+  [[PDF](https://scholar.harvard.edu/files/yingyingli/files/2018-3.pdf)]
 
 - **Leveraging Predictions in Smoothed Online Convex Optimization via Gradient-based Algorithms**
   <br>
@@ -21,8 +28,8 @@ My research lies in online learning, multi-armed bandit, reinforcement learning,
   <br>
   **Yingying Li**, [Qinran Hu](http://huqinran.com/), [Na Li](https://nali.seas.harvard.edu/)
   <br>
-  *Accepted to **Automatica***
-  [[PDF](https://arxiv.org/pdf/2003.09505.pdf)]
+  *Automatica Volume 119, 2020*
+  [[PDF](http://www.sciencedirect.com/science/article/pii/S0005109820302132)] [[arXiv](https://arxiv.org/pdf/2003.09505.pdf)]
   
 - **Distributed Reinforcement Learning for Decentralized Linear Quadratic Control: A Derivative-Free Policy Optimization Approach**
   <br>
@@ -51,11 +58,6 @@ My research lies in online learning, multi-armed bandit, reinforcement learning,
   <br>
   *The American Control Conference **(ACC)**, 2019.* [[PDF](https://nali.seas.harvard.edu/files/nali/files/2019acc_onlinemdp.pdf)]
 
-- **Online Optimization with Predictions and Switching Costs: Fast Algorithms and the Fundamental Limit**
-  <br>
-  **Yingying Li**, [Guannan Qu](http://gqu.people.caltech.edu/), [Na Li](https://nali.seas.harvard.edu/)
-  <br>
-  *Under review.* [[PDF](https://scholar.harvard.edu/files/yingyingli/files/2018-3.pdf)]
 
 - **Learning and Selecting the Right Customers for Reliability: A Multi-armed Bandit Approach**
   <br>
