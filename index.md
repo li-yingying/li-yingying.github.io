@@ -6,10 +6,23 @@ layout: homepage
 
 I am a Ph.D. candidate at [Harvard SEAS](https://www.seas.harvard.edu/). I'm working with [Prof. Na Li](https://nali.seas.harvard.edu/).
 
-My research lies in online convex optimization, online optimal control, reinforcement learning, multi-armed bandit, decentralized control, and mechanism design with applications in smart grid.
+My research lies in online optimal control, safe learning-based control, reinforcement learning, online convex optimization, multi-armed bandit, decentralized control, and mechanism design, with applications in smart grid.
 
 
 ## Publications
+- **Online Learning and Distributed Control for Residential Demand Response**
+  <br>
+  Xin Chen, **Yingying Li**, Jun Shimada,  [Na Li](https://nali.seas.harvard.edu/)
+  <br>
+  *under review*
+  [[arXiv](https://arxiv.org/pdf/2010.05153.pdf)]
+
+- **Online Optimal Control with Affine Constraints**
+  <br>
+  **Yingying Li**, [Subhro Das](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Subhro.Das), [Na Li](https://nali.seas.harvard.edu/)
+  <br>
+  *Thirty-fifth AAAI Conference on Artificial Intelligence, 2021.*
+  [[arXiv](https://arxiv.org/pdf/2010.04891.pdf)]
 
 - **Online Optimization with Predictions and Switching Costs: Fast Algorithms and the Fundamental Limit**
   <br>
@@ -29,15 +42,16 @@ My research lies in online convex optimization, online optimal control, reinforc
   <br>
   **Yingying Li**, [Qinran Hu](http://huqinran.com/), [Na Li](https://nali.seas.harvard.edu/)
   <br>
-  *Automatica Volume 119, 2020*
-  [[PDF](http://www.sciencedirect.com/science/article/pii/S0005109820302132)] [[arXiv](https://arxiv.org/pdf/2003.09505.pdf)]
+  *Automatica Volume 119, 2020* ([**Editor's Choice**](https://www.journals.elsevier.com/automatica/editors-choice/september-2020-automatica))
+  [[PDF](http://www.sciencedirect.com/science/article/pii/S0005109820302132)] [[arXiv](https://arxiv.org/pdf/2003.09505.pdf)] 
   
 - **Distributed Reinforcement Learning for Decentralized Linear Quadratic Control: A Derivative-Free Policy Optimization Approach**
   <br>
-  **Yingying Li**, Yujie Tang, Runyu Zhang, [Na Li](https://nali.seas.harvard.edu/)
+  **Yingying Li**, Yujie Tang, Runyu Zhang, [Na Li](https://nali.seas.harvard.edu/) (the first two authors contribute equally)
   <br>
   *2nd Annual Conference on Learning for Dynamics and Control*
-  [[PDF](https://arxiv.org/pdf/1912.09135.pdf)]
+  <br> The journal version is under review and can be found at
+  [[PDF](https://arxiv.org/pdf/1912.09135.pdf)].
 
 - **Online Optimal Control with Linear Dynamics and Predictions: Algorithms and Regret Analysis**
   <br>
