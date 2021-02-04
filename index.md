@@ -12,7 +12,7 @@ My research lies in online optimal control, safe learning-based control, reinfor
 ## Publications
 - **On the Regret Analysis of Online LQR Control with Predictions**
   <br>
-  Runyu Zhang, **Yingying Li**, Jun Shimada,  [Na Li](https://nali.seas.harvard.edu/)
+  Runyu Zhang, **Yingying Li**,  [Na Li](https://nali.seas.harvard.edu/)
   <br>
   *The American Control Conference **(ACC)**, 2021.*
 
