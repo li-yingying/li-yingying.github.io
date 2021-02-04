@@ -10,6 +10,12 @@ My research lies in online optimal control, safe learning-based control, reinfor
 
 
 ## Publications
+- **On the Regret Analysis of Online LQR Control with Predictions**
+  <br>
+  Runyu Zhang, **Yingying Li**, Jun Shimada,  [Na Li](https://nali.seas.harvard.edu/)
+  <br>
+  *The American Control Conference **(ACC)**, 2021.*
+
 - **Online Learning and Distributed Control for Residential Demand Response**
   <br>
   Xin Chen, **Yingying Li**, Jun Shimada,  [Na Li](https://nali.seas.harvard.edu/)
@@ -29,14 +35,14 @@ My research lies in online optimal control, safe learning-based control, reinfor
   **Yingying Li**, [Guannan Qu](http://gqu.people.caltech.edu/), [Na Li](https://nali.seas.harvard.edu/)
   <br>
   *Accepted by IEEE Transactions on Automatic Control **(TAC)**. 2020.* 
-  [[PDF](https://scholar.harvard.edu/files/yingyingli/files/2018-3.pdf)]
+  [[PDF](https://arxiv.org/pdf/1801.07780.pdf)]
 
 - **Leveraging Predictions in Smoothed Online Convex Optimization via Gradient-based Algorithms**
   <br>
   **Yingying Li**, [Na Li](https://nali.seas.harvard.edu/)
   <br>
   *Thirty-fourth Conference on Neural Information Processing Systems **(NeurIPS)**, 2020.*
-  [[PDF](https://yingying.li/files/NeurIPS2020.pdf)]
+  [[PDF](https://papers.nips.cc/paper/2020/file/a6e4f250fb5c56aaf215a236c64e5b0a-Paper.pdf)]
 
 - **A Reliability-aware Multi-armed Bandit Approach to Learn and Select Users in Demand Response**
   <br>
