@@ -10,6 +10,13 @@ My research lies in online optimal control, safe learning-based control, reinfor
 
 
 ## Publications
+- **Online Optimal Control with Affine Constraints**
+  <br>
+  **Yingying Li**, [Subhro Das](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Subhro.Das), [Na Li](https://nali.seas.harvard.edu/)
+  <br>
+  *Thirty-fifth AAAI Conference on Artificial Intelligence, 2021.*
+  [[arXiv](https://arxiv.org/pdf/2010.04891.pdf)]
+
 - **On the Regret Analysis of Online LQR Control with Predictions**
   <br>
   Runyu Zhang, **Yingying Li**,  [Na Li](https://nali.seas.harvard.edu/)
@@ -23,12 +30,6 @@ My research lies in online optimal control, safe learning-based control, reinfor
   *under review*
   [[arXiv](https://arxiv.org/pdf/2010.05153.pdf)]
 
-- **Online Optimal Control with Affine Constraints**
-  <br>
-  **Yingying Li**, [Subhro Das](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Subhro.Das), [Na Li](https://nali.seas.harvard.edu/)
-  <br>
-  *Thirty-fifth AAAI Conference on Artificial Intelligence, 2021.*
-  [[arXiv](https://arxiv.org/pdf/2010.04891.pdf)]
 
 - **Online Optimization with Predictions and Switching Costs: Fast Algorithms and the Fundamental Limit**
   <br>
