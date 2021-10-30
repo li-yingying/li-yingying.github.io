@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a postdoc affiliated with [ISE](https://ise.illinois.edu/) at the University of Illinois Urbana-Champaign (UIUC). I am fortunate to work with [Prof. Jeff Shamma](https://ise.illinois.edu/directory/profile/jshamm). Previously, I received my PhD in [Applied Math](https://www.seas.harvard.edu/applied-mathematics) at Harvard University in 2021, where I was fortunate to be advised by [Prof. Na Li](https://nali.seas.harvard.edu/). Besides, I received my master degree at Harvard and my bachelor degree at the University of Science and Technology of China (USTC), both in Applied Math.
+I am currently a postdoc affiliated with [ISE](https://ise.illinois.edu/) at the University of Illinois Urbana-Champaign (UIUC). I am fortunate to work with [Prof. Jeff Shamma](https://ise.illinois.edu/directory/profile/jshamm). Previously, I received my PhD in [Applied Math](https://www.seas.harvard.edu/applied-mathematics) at Harvard University in 2021, where I was fortunate to be advised by [Prof. Na Li](https://nali.seas.harvard.edu/). Besides, I received my master degree at Harvard and my bachelor degree at the University of Science and Technology of China (USTC), both in Applied Math. I also did a research intern at [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) working with [Subhro Das](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Subhro.Das) in the summer of 2020.
 
 My research lies in online optimal control, safe learning-based control,  online convex optimization, reinforcement learning, multi-armed bandit, decentralized control, and mechanism design, with applications in smart grids, smart cities, and robotics.
 
@@ -64,8 +64,7 @@ My research lies in online optimal control, safe learning-based control,  online
   **Yingying Li**, Yujie Tang, Runyu Zhang, [Na Li](https://nali.seas.harvard.edu/) (the first two authors contribute equally)
   <br>
   *2nd Annual Conference on Learning for Dynamics and Control*
-  <br> The journal version is under review and can be found at
-  [[PDF](https://arxiv.org/pdf/1912.09135.pdf)].
+  
 
 - **Online Optimal Control with Linear Dynamics and Predictions: Algorithms and Regret Analysis**
   <br>
