@@ -4,32 +4,32 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at [Harvard SEAS](https://www.seas.harvard.edu/). I'm working with [Prof. Na Li](https://nali.seas.harvard.edu/).
+I am currently a postdoc affiliated with [ISE](https://ise.illinois.edu/) at the University of Illinois Urbana-Champaign (UIUC). I am fortunate to work with [Prof. Jeff Shamma](https://ise.illinois.edu/directory/profile/jshamm). Previously, I received my PhD in [Applied Math](https://www.seas.harvard.edu/applied-mathematics) at Harvard University in 2021, where I was fortunate to be advised by [Prof. Na Li](https://nali.seas.harvard.edu/). Besides, I received my master degree at Harvard and my bachelor degree at the University of Science and Technology of China (USTC), both in Applied Math.
 
-My research lies in online optimal control, safe learning-based control, reinforcement learning, online convex optimization, multi-armed bandit, decentralized control, and mechanism design, with applications in smart grid.
+My research lies in online optimal control, safe learning-based control,  online convex optimization, reinforcement learning, multi-armed bandit, decentralized control, and mechanism design, with applications in smart grids, smart cities, and robotics.
 
 
 ## Publications
+  
 - **Online Optimal Control with Affine Constraints**
   <br>
   **Yingying Li**, [Subhro Das](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Subhro.Das), [Na Li](https://nali.seas.harvard.edu/)
   <br>
   *Thirty-fifth AAAI Conference on Artificial Intelligence, 2021.*
   [[arXiv](https://arxiv.org/pdf/2010.04891.pdf)]
+  
+ - **Online Learning and Distributed Control for Residential Demand Response**
+  <br>
+  Xin Chen, **Yingying Li**, Jun Shimada, Na Li
+  <br>
+  *Accepted by IEEE Transactions on Smart Grid **(TSG)**. 2021.* 
+  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9459185)]
 
 - **On the Regret Analysis of Online LQR Control with Predictions**
   <br>
   Runyu Zhang, **Yingying Li**,  [Na Li](https://nali.seas.harvard.edu/)
   <br>
   *The American Control Conference **(ACC)**, 2021.*
-
-- **Online Learning and Distributed Control for Residential Demand Response**
-  <br>
-  Xin Chen, **Yingying Li**, Jun Shimada,  [Na Li](https://nali.seas.harvard.edu/)
-  <br>
-  *under review*
-  [[arXiv](https://arxiv.org/pdf/2010.05153.pdf)]
-
 
 - **Online Optimization with Predictions and Switching Costs: Fast Algorithms and the Fundamental Limit**
   <br>
