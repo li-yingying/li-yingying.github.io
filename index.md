@@ -111,6 +111,8 @@ My research lies in online optimal control, safe learning-based control,  online
   <br>
   *Physical Review E 91, no. 4 (2015): 042801* [[PDF](https://scholar.harvard.edu/files/yingyingli/files/2014-1.pdf)]
   
+<!--
 ## Industry Experience
 - Summer 2020: Research Intern  at [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) working with [Subhro Das](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Subhro.Das).
+-->
 
