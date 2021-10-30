@@ -18,7 +18,14 @@ My research lies in online optimal control, safe learning-based control,  online
   *Thirty-fifth AAAI Conference on Artificial Intelligence, 2021.*
   [[arXiv](https://arxiv.org/pdf/2010.04891.pdf)]
   
- - **Online Learning and Distributed Control for Residential Demand Response**
+- **Distributed Reinforcement Learning for Decentralized Linear Quadratic Control: A Derivative-Free Policy Optimization Approach**
+  <br>
+  **Yingying Li**, Yujie Tang, Runyu Zhang, [Na Li](https://nali.seas.harvard.edu/) (the first two authors contribute equally)
+  <br>
+  *Accepted by IEEE Transactions on Automatic Control **(TAC)**. 2020.* 
+  [[PDF](https://arxiv.org/pdf/1912.09135.pdf)].
+  
+- **Online Learning and Distributed Control for Residential Demand Response**
   <br>
   Xin Chen, **Yingying Li**, Jun Shimada, Na Li
   <br>
