@@ -118,5 +118,5 @@ My research lies in online optimal control, safe learning-based control,  online
 
 
 ## Ph.D. Thesis
-- Real-time Decision Making in Control and Optimization with Performance and Safety Guarantees. Harvard University 2021.
+- Real-time Decision Making in Control and Optimization with Performance and Safety Guarantees. Harvard University, 2021.
   [[PDF](https://yingying.li/files/thesis.pdf)]
