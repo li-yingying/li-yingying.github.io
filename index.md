@@ -118,5 +118,5 @@ My research lies in online optimal control, safe learning-based control,  online
 
 
 ## Publications
-- Ph.D. thesis: Real-time Decision Making in Control and Optimization with Performance and Safety Guarantees**
+- Ph.D. thesis: Real-time Decision Making in Control and Optimization with Performance and Safety Guarantees.
   [[PDF](https://yingying.li/files/thesis.pdf)]
