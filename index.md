@@ -10,6 +10,13 @@ My research lies in online optimal control, safe learning-based control,  online
 
 
 ## Publications
+
+- **Real-time Decision Making in Control and Optimization with Performance and Safety Guarantees**
+  <br>
+  **Yingying Li**
+  <br>
+  *PhD thesis, Harvard University, 2021*
+  [[PDF](https://yingying.li/files/thesis.pdf)]
   
 - **Online Optimal Control with Affine Constraints**
   <br>
