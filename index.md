@@ -10,13 +10,6 @@ My research lies in online optimal control, safe learning-based control,  online
 
 
 ## Publications
-
-- **Real-time Decision Making in Control and Optimization with Performance and Safety Guarantees**
-  <br>
-  **Yingying Li**
-  <br>
-  *PhD thesis, Harvard University, 2021*
-  [[PDF](https://yingying.li/files/thesis.pdf)]
   
 - **Online Optimal Control with Affine Constraints**
   <br>
@@ -123,3 +116,7 @@ My research lies in online optimal control, safe learning-based control,  online
 - Summer 2020: Research Intern  at [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) working with [Subhro Das](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Subhro.Das).
 -->
 
+
+## Publications
+- Ph.D. thesis: Real-time Decision Making in Control and Optimization with Performance and Safety Guarantees**
+  [[PDF](https://yingying.li/files/thesis.pdf)]
