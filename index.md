@@ -114,9 +114,9 @@ My research lies in online optimal control, safe learning-based control,  online
 <!--
 ## Industry Experience
 - Summer 2020: Research Intern  at [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) working with [Subhro Das](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Subhro.Das).
--->
 
 
 ## Ph.D. Thesis
 - Real-time Decision Making in Control and Optimization with Performance and Safety Guarantees. Harvard University, 2021.
   [[PDF](https://yingying.li/files/thesis.pdf)]
+-->
