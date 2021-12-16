@@ -8,6 +8,8 @@ I am currently a postdoc affiliated with [ISE](https://ise.illinois.edu/) at the
 
 My research lies in online optimal control, safe learning-based control,  online convex optimization, reinforcement learning, multi-armed bandit, decentralized control, and mechanism design, with applications in smart grids, smart cities, and robotics.
 
+**I am currently on the 2021-2022 academic job market, looking for faculty positions related with Control, Optimization, Machine/Reinforcement Learning, with applications in Cyber-physical systems, Internet of Things, power systems, etc. (ECE, CSE, IEOR, ME). Please feel free to contact me if you are interested. I am also thrilled to talk about my research in related seminars.**
+
 
 ## Publications
   
