@@ -39,7 +39,7 @@ My research lies in online optimal control, safe learning-based control,  online
   Xin Chen, **Yingying Li**, Jun Shimada, Na Li
   <br>
   *IEEE Transactions on Smart Grid **(TSG)**, 2021.* 
-  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9459185)]
+  [[PDF](./files/tsg_Online_Learning_and_Distributed_Control_for_Residential_Demand_Response.pdf)]
 
 - **On the Regret Analysis of Online LQR Control with Predictions**
   <br>
