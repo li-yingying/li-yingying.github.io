@@ -8,10 +8,17 @@ I am currently a postdoc affiliated with [ISE](https://ise.illinois.edu/) at the
 
 My research lies in online optimal control, safe learning-based control,  online convex optimization, reinforcement learning, multi-armed bandit, decentralized control, and mechanism design, with applications in smart grids, smart cities, and robotics.
 
-**I am currently on the 2021-2022 academic job market, looking for faculty positions related with Control, Optimization, Machine/Reinforcement Learning, with applications in Cyber-physical systems, Internet of Things, power systems, etc. (ECE, CSE, IEOR, ME). Please feel free to contact me if you are interested. I am also thrilled to talk about my research in related seminars.**
+**I am currently on the 2021-2022 academic job market, looking for faculty positions in ECE, CSE, EE, IEOR, ME, etc., related with Control, Optimization, Machine/Reinforcement Learning, with applications in Cyber-physical Systems, Internet of Things, Power Systems. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.**
 
 
 ## Publications
+
+- **Safe Adaptive Learning-based Control for Constrained Linear Quadratic Regulators with Regret Guarantees**
+  <br>
+  **Yingying Li**, Subhro Das, Jeff Shamma, Na Li
+  <br>
+  under review
+  [[arXiv](https://arxiv.org/pdf/2111.00411.pdf)]
   
 - **Online Optimal Control with Affine Constraints**
   <br>
@@ -24,14 +31,14 @@ My research lies in online optimal control, safe learning-based control,  online
   <br>
   **Yingying Li**, Yujie Tang, Runyu Zhang, Na Li (the first two authors contribute equally)
   <br>
-  *Accepted by IEEE Transactions on Automatic Control **(TAC)**. 2020.* 
+  *To appear in IEEE Transactions on Automatic Control **(TAC)**, 2022.* 
   [[PDF](https://arxiv.org/pdf/1912.09135.pdf)].
   
 - **Online Learning and Distributed Control for Residential Demand Response**
   <br>
   Xin Chen, **Yingying Li**, Jun Shimada, Na Li
   <br>
-  *Accepted by IEEE Transactions on Smart Grid **(TSG)**. 2021.* 
+  *IEEE Transactions on Smart Grid **(TSG)**, 2021.* 
   [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9459185)]
 
 - **On the Regret Analysis of Online LQR Control with Predictions**
@@ -39,12 +46,13 @@ My research lies in online optimal control, safe learning-based control,  online
   Runyu Zhang, **Yingying Li**,  Na Li
   <br>
   *The American Control Conference **(ACC)**, 2021.*
+  [[PDF](https://arxiv.org/pdf/2102.01309.pdf)]
 
 - **Online Optimization with Predictions and Switching Costs: Fast Algorithms and the Fundamental Limit**
   <br>
   **Yingying Li**, Guannan Qu, Na Li
   <br>
-  *Accepted by IEEE Transactions on Automatic Control **(TAC)**. 2020.* 
+  *IEEE Transactions on Automatic Control **(TAC)**, 2021.* 
   [[PDF](https://arxiv.org/pdf/1801.07780.pdf)]
 
 - **Leveraging Predictions in Smoothed Online Convex Optimization via Gradient-based Algorithms**
