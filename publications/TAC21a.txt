@@ -1,7 +1,0 @@
-@article{li2020online,
-  title={Online optimization with predictions and switching costs: Fast algorithms and the fundamental limit},
-  author={Li, Yingying and Qu, Guannan and Li, Na},
-  journal={IEEE Transactions on Automatic Control},
-  year={2020},
-  publisher={IEEE}
-}

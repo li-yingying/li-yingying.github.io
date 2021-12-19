@@ -1,7 +1,0 @@
-@article{chen2021online,
-  title={Online learning and distributed control for residential demand response},
-  author={Chen, Xin and Li, Yingying and Shimada, Jun and Li, Na},
-  journal={IEEE Transactions on Smart Grid},
-  year={2021},
-  publisher={IEEE}
-}

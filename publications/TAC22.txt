@@ -1,7 +1,0 @@
-@article{li2021distributed,
-  title={Distributed reinforcement learning for decentralized linear quadratic control: A derivative-free policy optimization approach},
-  author={Li, Yingying and Tang, Yujie and Zhang, Runyu and Li, Na},
-  journal={IEEE Transactions on Automatic Control},
-  year={2021},
-  publisher={IEEE}
-}

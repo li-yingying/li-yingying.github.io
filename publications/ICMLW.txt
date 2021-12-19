@@ -1,6 +1,0 @@
-@inproceedings{li2019online,
-  title={Online markov decision processes with time-varying transition probabilities and rewards},
-  author={Li, Yingying and Zhong, Aoxiao and Qu, Guannan and Li, Na},
-  booktitle={ICML workshop on Real-world Sequential Decision Making},
-  year={2019}
-}
