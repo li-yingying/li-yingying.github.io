@@ -1,0 +1,9 @@
+@article{li2020reliability,
+  title={A reliability-aware multi-armed bandit approach to learn and select users in demand response},
+  author={Li, Yingying and Hu, Qinran and Li, Na},
+  journal={Automatica},
+  volume={119},
+  pages={109015},
+  year={2020},
+  publisher={Elsevier}
+}

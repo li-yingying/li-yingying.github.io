@@ -1,0 +1,22 @@
+@inproceedings{DBLP:conf/nips/LiCL19,
+  author    = {Yingying Li and
+               Xin Chen and
+               Na Li},
+  editor    = {Hanna M. Wallach and
+               Hugo Larochelle and
+               Alina Beygelzimer and
+               Florence d'Alch{\'{e}}{-}Buc and
+               Emily B. Fox and
+               Roman Garnett},
+  title     = {Online Optimal Control with Linear Dynamics and Predictions: Algorithms
+               and Regret Analysis},
+  booktitle = {Advances in Neural Information Processing Systems 32: Annual Conference
+               on Neural Information Processing Systems 2019, NeurIPS 2019, December
+               8-14, 2019, Vancouver, BC, Canada},
+  pages     = {14858--14870},
+  year      = {2019},
+  url       = {https://proceedings.neurips.cc/paper/2019/hash/6d1e481bdcf159961818823e652a7725-Abstract.html},
+  timestamp = {Wed, 25 Aug 2021 09:46:48 +0200},
+  biburl    = {https://dblp.org/rec/conf/nips/LiCL19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

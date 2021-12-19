@@ -1,0 +1,27 @@
+@inproceedings{DBLP:conf/l4dc/LiTZL20,
+  author    = {Yingying Li and
+               Yujie Tang and
+               Runyu Zhang and
+               Na Li},
+  editor    = {Alexandre M. Bayen and
+               Ali Jadbabaie and
+               George J. Pappas and
+               Pablo A. Parrilo and
+               Benjamin Recht and
+               Claire J. Tomlin and
+               Melanie N. Zeilinger},
+  title     = {Distributed Reinforcement Learning for Decentralized Linear Quadratic
+               Control: {A} Derivative-Free Policy Optimization Approach},
+  booktitle = {Proceedings of the 2nd Annual Conference on Learning for Dynamics
+               and Control, {L4DC} 2020, Online Event, Berkeley, CA, USA, 11-12 June
+               2020},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {120},
+  pages     = {814},
+  publisher = {{PMLR}},
+  year      = {2020},
+  url       = {http://proceedings.mlr.press/v120/li20c.html},
+  timestamp = {Fri, 04 Dec 2020 15:21:06 +0100},
+  biburl    = {https://dblp.org/rec/conf/l4dc/LiTZL20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
