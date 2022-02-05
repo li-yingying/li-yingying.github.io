@@ -24,7 +24,7 @@ My research lies in online optimal control, safe learning-based control,  online
   <br>
   **Yingying Li**, Subhro Das, Na Li
   <br>
-  *Thirty-fifth AAAI Conference on Artificial Intelligence, 2021.*
+  *Thirty-fifth AAAI Conference on Artificial Intelligence **(AAAI)**, 2021.*
   [[arXiv](https://arxiv.org/pdf/2010.04891.pdf)]
   
 - **Distributed Reinforcement Learning for Decentralized Linear Quadratic Control: A Derivative-Free Policy Optimization Approach**
