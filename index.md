@@ -32,7 +32,7 @@ My research lies in online optimal control, safe learning-based control,  online
   **Yingying Li**, Yujie Tang, Runyu Zhang, Na Li (the first two authors contribute equally)
   <br>
   *To appear in IEEE Transactions on Automatic Control **(TAC)**, 2022.* 
-  [[PDF](https://arxiv.org/pdf/1912.09135.pdf)].
+  [[PDF](https://arxiv.org/pdf/1912.09135.pdf)]
   
 - **Online Learning and Distributed Control for Residential Demand Response**
   <br>
