@@ -18,7 +18,7 @@ My research lies in online optimal control, safe learning-based control,  online
   **Yingying Li**, Tianpeng Zhang, Subhro Das, Jeff Shamma, Na Li
   <br>
   Under review.
-  [<a style="color:#e74d3c" href="/files/Safe_Adaptive_Learning_for_Linear_Quadratic_Regulators_with_Constraints.pdf">New Version</a>]
+  [[PDF](/files/Safe_Adaptive_Learning_for_Linear_Quadratic_Regulators_with_Constraints.pdf)]
   
 - **Online Optimal Control with Affine Constraints**
   <br>
