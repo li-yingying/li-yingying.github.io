@@ -8,7 +8,11 @@ I am currently a postdoc affiliated with the Coordinated Science Laboratory at t
 
 My research lies in online optimal control, safe learning-based control,  online convex optimization, reinforcement learning, multi-armed bandit, decentralized control, and mechanism design, with applications in smart grids, smart cities, and robotics.
 
+<!--
+
 **I am currently on the 2021-2022 academic job market, looking for faculty positions in ECE, CSE, EE, IEOR, ME, etc., related with Control, Optimization, Machine/Reinforcement Learning, with applications in Cyber-physical Systems, Internet of Things, Power Systems. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.**
+
+-->
 
 
 ## Publications
