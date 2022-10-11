@@ -10,7 +10,7 @@ title: Publications
   Under review.
   <br>
   <br>
-- [**Online Optimal Control with Affine Constraints**]((https://arxiv.org/pdf/2010.04891.pdf)])
+- [**Online Optimal Control with Affine Constraints**](https://arxiv.org/pdf/2010.04891.pdf)
   <br>
   **Yingying Li**, Subhro Das, Na Li
   <br>
