@@ -237,6 +237,13 @@ div.codeblock, div.infoblock {
 	margin-bottom: 1.3em;
 }
 
+div.codeblock, div.highlighter-rouge {
+	margin-right: 0%;
+	margin-top: 1.2em;
+	margin-bottom: 1.3em;
+}
+
+
 div.blocktitle {
 	font-weight: bold;
 	color: #cd7b62;
@@ -245,6 +252,11 @@ div.blocktitle {
 }
 
 div.blockcontent {
+	border: 1px solid silver;
+	padding: 0.3em 0.5em;
+}
+
+div.highlight {
 	border: 1px solid silver;
 	padding: 0.3em 0.5em;
 }
@@ -269,7 +281,31 @@ div.infoblock p + p {
 	margin-top: 0.8em;
 }
 
+div.highlighter-rouge > div.highlight {
+	background: #ffffee;
+}
+
+div.highlight p + ul, div.highlight p + ol {
+	margin-top: 0.4em;
+}
+
+div.highlighter-rouge p {
+	margin-bottom: 0em;
+}
+
+div.highlighter-rouge li p, div.highlighter-rouge dd p {
+	margin-bottom: 0.5em;
+}
+
+div.highlighter-rouge p + p {
+	margin-top: 0.8em;
+}
+
 div.codeblock > div.blockcontent {
+	background: #f6f6f6;
+}
+
+div.codeblock > div.highlight {
 	background: #f6f6f6;
 }
 

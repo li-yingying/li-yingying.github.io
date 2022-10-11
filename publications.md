@@ -8,6 +8,7 @@ title: Publications
     <p>A list of papers with citation counts on <a href="https://scholar.google.com/citations?hl=en&user=-b9PTaUAAAAJ">Google Scholar Page</a></p>
 </div></div>
 
+
 - [**Safe Adaptive Learning for Linear Quadratic Regulators with Constraints**](/files/Safe_Adaptive_Learning_for_Linear_Quadratic_Regulators_with_Constraints.pdf)
   <br>
   **Yingying Li**, Tianpeng Zhang, Subhro Das, Jeff Shamma, Na Li

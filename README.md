@@ -27,6 +27,16 @@ Edit this file: [_includes/navbar.html](_includes/navbar.html), then the navigat
 <div class="menu-category">Category ABC</div>
 ```
 
+### How to add a text block
+Add the following lines in the Markdown file:
+```
+<div class="infoblock">
+    <div class="blockcontent">
+    <p>Your content</p>
+    </div>
+</div>
+```
+
 ### Using Locally with Jekyll
 
 *You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.*
