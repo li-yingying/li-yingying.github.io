@@ -1,7 +1,7 @@
 ## Jekyll + jemdoc
 
 ### Change basic information
-Edit this file: [_includes/_config.yml](_includes/_config.yml)
+Edit this file: [_config.yml](_config.yml)
 
 ### How to add a new page
 - Create a new file named 'abc.md'
