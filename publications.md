@@ -66,7 +66,7 @@ title: Publications
   *2nd Annual Conference on Learning for Dynamics and Control*
   <br>
   <br> 
-- [**Online Optimal Control with Linear Dynamics and Predictions: Algorithms and Regret Analysis**]()https://arxiv.org/pdf/1906.11378.pdf
+- [**Online Optimal Control with Linear Dynamics and Predictions: Algorithms and Regret Analysis**](https://arxiv.org/pdf/1906.11378.pdf)
   <br>
   **Yingying Li**, Xin Chen, Na Li
   <br>
