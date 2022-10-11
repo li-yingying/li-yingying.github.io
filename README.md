@@ -9,10 +9,12 @@ Edit this file: [_config.yml](_config.yml)
 ```
 ---
 layout: normal
-title: Publications
+title: ABC
 ---
 ```
 - Add your content using Markdown
+
+The link of this page is `abc.html`
 
 ### How to change the navigation bar
 Edit this file: [_includes/navbar.html](_includes/navbar.html), then the navigation bar on all pages will change
