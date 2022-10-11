@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+</head>
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}"  />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" />
+    <meta charset="utf-8">
+</head>
+<link rel="stylesheet" href="./assets/css/style.css" type="text/css" />
+<link rel="stylesheet" href="./assets/css/jemdocCustom.css" type="text/css" />
+<title>{{ site.title }} - {{ page.title }}</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+    {% include navbar.html %}
+<td id="layout-content">
+<h1>{{ page.title }}</h1>
+
+<div class="infoblock">
+    <div class="blockcontent">
+    <p>A list of papers with citation counts on <a href="{{site.google_scholar}}">Google Scholar Page</a></p>
+    </div></div>
+
+{{ content }}
+
+<!--
+<div class="infoblock">
+<div class="blockcontent">
+<p><a href="news.html">More news</a></p>
+</div></div>
+-->
+<div id="footer">
+<div id="footer-text">
+Powered by Jekyll and <a href="https://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,10 +1,37 @@
+# Basic Information 
 title: Yingying Li
 position: Postdoc
 affiliation: University of Illinois Urbana-Champaign
+affiliation_link: https://uiuc.edu/
+department: Coordinated Science Laboratory
+department_link: https://csl.illinois.edu/
 email: yl101 (at) illinois.edu
-keywords: yingying li, li yingying
-favicon: ./images/favicon.png
-favicon_dark: ./images/favicon.png
+address: 1308 W. Main St., Coordinated Science Laboratory, Room 167, Urbana, IL 61801
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Yingying Li
 description: Yingying Li is currently a postdoc affiliated with the Coordinated Science Laboratory at the University of Illinois Urbana-Champaign (UIUC). Her research lies in online learning, multi-armed bandit, reinforcement learning, decentralized control, and mechanism design with applications in smart grid.
 canonical: https://yingyingli.web.illinois.edu/
-remote_theme: yaoyao-liu/minimal-light
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?hl=en&user=-b9PTaUAAAAJ
+resume: https://yingyingli.web.illinois.edu/files/CV_Yingying_new.pdf
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/yingying_li.jpg
+favicon: ./assets/img/favicon.ico
+favicon_dark: ./assets/img/favicon.ico
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
