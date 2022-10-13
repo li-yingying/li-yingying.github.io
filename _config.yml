@@ -2,17 +2,17 @@
 title: Yingying Li
 position: Postdoc
 affiliation: California Institute of Technology
-affiliation_link: https://uiuc.edu/
-department: Coordinated Science Laboratory
-department_link: https://csl.illinois.edu/
-email: yl101 (at) illinois.edu
-address: 1308 W. Main St., Coordinated Science Laboratory, Room 167, Urbana, IL 61801
+affiliation_link: https://www.cms.caltech.edu/
+department: Computing + Mathematical Sciences Department
+department_link: https://www.cms.caltech.edu/
+email: yingli2@caltech.edu
+address: Annenberg Center for Information Science and Technology, 330 S Chester Ave, Pasadena, CA 91125
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Yingying Li
-description: Yingying Li is currently a postdoc affiliated with the Coordinated Science Laboratory at the University of Illinois Urbana-Champaign (UIUC). Her research lies in online learning, multi-armed bandit, reinforcement learning, decentralized control, and mechanism design with applications in smart grid.
-canonical: https://yingyingli.web.illinois.edu/
+description: Yingying Li is currently a postdoc in the Department of Computing and Mathematical Sciences at the California Institute of Technology. Her research lies in online learning, multi-armed bandit, reinforcement learning, decentralized control, and mechanism design with applications in smart grid.
+canonical: https://yingying.li
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
