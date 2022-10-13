@@ -22,8 +22,8 @@ google_scholar: https://scholar.google.com/citations?hl=en&user=-b9PTaUAAAAJ
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/yingying_li.jpg
-favicon: ./assets/img/favicon.ico
-favicon_dark: ./assets/img/favicon.ico
+favicon: ./assets/img/favicon-caltech.png
+favicon_dark: ./assets/img/favicon-caltech.png
 
 # The following files will be removed from the generated website.
 exclude:
