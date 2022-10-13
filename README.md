@@ -3,6 +3,12 @@
 ### Change basic information
 Edit this file: [_config.yml](_config.yml)
 
+### Update the index page
+Edit this file: [index.md](index.md)
+
+### Update the publication page
+Edit this file: [publications.md](publications.md)
+
 ### How to add a new page
 - Create a new file named 'abc.md'
 - Copy the following lines to the new file:
