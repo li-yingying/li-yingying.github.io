@@ -1,0 +1,30 @@
+<td id="layout-content">
+
+      
+      <table class="imgtable"><tr>
+      <td width="200px">
+      <a href="index.html"><img src="images/yingying_li.jpg" alt="alt text" height="150px" /></a>&nbsp;
+      </td>
+      
+      <td align="left">
+
+      <h3>{{ site.title }}</h3>
+      {% if site.position %}
+      {{ site.position }}
+      <br>
+      {% endif %}
+      
+      {% if site.department %}
+      <a href="{{site.department_link}}"><autocolor>{{site.department}}</autocolor></a> <br />
+      {% endif %}
+      
+      {% if site.affiliation %}
+      <a href="{{site.affiliation_link}}"><autocolor>{{site.affiliation}}</autocolor></a> <br />
+      {% endif %}
+      
+      Email: {{site.email}} <br />
+      <p>     
+      {% if site.resume %}  
+      [<a href="{{ site.resume }}">Curriculum Vitae</a>] {% endif %}{% if site.google_scholar %}[<a href="site.google_scholar">Google Scholar</a>]{% endif %}
+      </p>
+      </td></tr></table>

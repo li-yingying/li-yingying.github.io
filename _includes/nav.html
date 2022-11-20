@@ -1,0 +1,35 @@
+<ul>
+
+    {% for link in site.data.navigation.main %}
+      {% if link.url contains 'http' %}
+        {% assign domain = '' %}
+        {% else %}
+        {% assign domain = base_path %}
+      {% endif %}
+      {% if link.title == page.title %}
+        <li class="active"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+        {% else %}
+        <li><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+    <!--
+      <li class="active">
+        <a href="index.html" title="">Introduction</a>
+      </li>
+      <li>
+        <a href="submission.html" title="">Submission</a>
+      </li>
+      <li>
+        <a href="challenge.html" title="">Challenge</a>
+      </li>
+      <li style="min-width:150px">
+        <a href="accepted.html" title="">Accepted Papers</a>
+      </li>
+      <li class="dropdown">
+        <button class="dropbtn">Previous</button>
+        <div class="dropdown-content">
+          <a href="civ2021.html">CiV@CVPR2021</a>
+        </div>
+     </li>
+     -->
+    </ul>
