@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Homepage
+title: About Me
 ---
 
 ## About Me
