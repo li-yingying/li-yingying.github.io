@@ -31,4 +31,4 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
-  - jekyll-jemdoc.gemspec
+

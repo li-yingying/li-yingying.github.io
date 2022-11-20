@@ -1,5 +1,6 @@
 ---
 layout: homepage
+title: Homepage
 ---
 
 ## About Me
@@ -10,4 +11,3 @@ I am currently a postdoc in the Department of Computing + Mathematical Sciences 
 My research lies in online optimal control, safe learning-based control,  online convex optimization, reinforcement learning, multi-armed bandit, decentralized control, and mechanism design, with applications in smart grids, smart cities, and robotics.
 
 **I will be joining the University of Illinois Urbana-Champaign (UIUC) as an assistant professor in the Department of Industrial and Enterprise Systems Engineering (ISE) in the fall of 2023. I will also be affilated with the Department of Electrical and Computer Engineering (ECE) and the Coordinated Science Laboratory. I am actively looking for self-motivated Ph.D. students and postdocs with strong background in mathematics and interests in applications of robotics and smart cities. Please feel free to apply to either the Department of Industrial and Enterprise Systems Engineering or the  Department of Electrical and Computer Engineering and mention my name in your application if you are interested in joining our group!**
-
