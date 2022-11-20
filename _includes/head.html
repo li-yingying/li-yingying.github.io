@@ -1,31 +1,33 @@
 <td id="layout-content">
+<table class="imgtable">
+<tr>
+<td width="200px">
+<a class="image avatar"><img src="images/yingying_li.jpg" alt="avatar" /></a>
+&nbsp;
+</td>
+      
+<td align="left">
 
-      
-      <table class="imgtable"><tr>
-      <td width="200px">
-      <a class="image avatar"><img src="images/yingying_li.jpg" alt="avatar" /></a>
-      &nbsp;
-      </td>
-      
-      <td align="left">
+<h2>{{ site.title }}</h2>
+{% if site.position %}
+{{ site.position }}
+<br>
+{% endif %}
 
-      <h2>{{ site.title }}</h2>
-      {% if site.position %}
-      {{ site.position }}
-      <br>
-      {% endif %}
+{% if site.department %}
+<a href="{{site.department_link}}"><autocolor>{{site.department}}</autocolor></a> <br />
+{% endif %}
+
+{% if site.affiliation %}
+<a href="{{site.affiliation_link}}"><autocolor>{{site.affiliation}}</autocolor></a> <br />
+{% endif %}
+
+<email>{{site.email}}</email> <br />
+<p>     
+{% if site.resume %}  
+[<a href="{{ site.resume }}">Curriculum Vitae</a>] {% endif %}{% if site.google_scholar %}[<a href="{{ site.google_scholar }}">Google Scholar</a>]{% endif %}
+</p>
       
-      {% if site.department %}
-      <a href="{{site.department_link}}"><autocolor>{{site.department}}</autocolor></a> <br />
-      {% endif %}
-      
-      {% if site.affiliation %}
-      <a href="{{site.affiliation_link}}"><autocolor>{{site.affiliation}}</autocolor></a> <br />
-      {% endif %}
-      
-      <email>{{site.email}}</email> <br />
-      <p>     
-      {% if site.resume %}  
-      [<a href="{{ site.resume }}">Curriculum Vitae</a>] {% endif %}{% if site.google_scholar %}[<a href="{{ site.google_scholar }}">Google Scholar</a>]{% endif %}
-      </p>
-      </td></tr></table>
+</td>
+</tr>
+</table>
