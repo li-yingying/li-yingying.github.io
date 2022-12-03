@@ -6,6 +6,13 @@ title: Publications
 
 ## Publications
 
+- **Online Hyperparameter Optimization for Class-Incremental Learning**
+  <br>
+  Yaoyao Liu, **Yingying Li**, Bernt Schiele, Qianru Sun
+  <br>
+  *Thirty-seventh AAAI Conference on Artificial Intelligence **(AAAI)**, 2023.*
+  [[PDF](https://lyy.mpi-inf.mpg.de/preprints/Online_Hyperparameter_Optimization_for_Class_Incremental_Learning.pdf)]
+
 - **Safe Adaptive Learning for Linear Quadratic Regulators with Constraints**
   <br>
   **Yingying Li**, Tianpeng Zhang, Subhro Das, Jeff Shamma, Na Li
