@@ -6,6 +6,19 @@ title: Publications
 
 ## Publications
 
+- **Online switching control with stability and regret guarantees**
+  <br>
+   **Yingying Li**, James A. Preiss, Na Li, Yiheng Lin, Adam Wierman, Jeff Shamma
+  <br>
+   Under review.
+
+- **Non-asymptotic System Identification for
+Linear Systems with Nonlinear Policies**
+  <br>
+   **Yingying Li**, Tianpeng Zhang, Subhro Das, Jeff Shamma, Na Li
+  <br>
+   Under review.
+   
 - **Online Hyperparameter Optimization for Class-Incremental Learning**
   <br>
   Yaoyao Liu, **Yingying Li**, Bernt Schiele, Qianru Sun
