@@ -24,7 +24,7 @@ Linear Systems with Nonlinear Policies**
   Yaoyao Liu, **Yingying Li**, Bernt Schiele, Qianru Sun
   <br>
   *Thirty-seventh AAAI Conference on Artificial Intelligence **(AAAI)**, 2023.*
-  [[PDF](https://lyy.mpi-inf.mpg.de/preprints/Online_Hyperparameter_Optimization_for_Class_Incremental_Learning.pdf)]
+  [[PDF](https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content)]
 
 - **Safe Adaptive Learning for Linear Quadratic Regulators with Constraints**
   <br>
