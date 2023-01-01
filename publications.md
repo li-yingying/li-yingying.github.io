@@ -10,7 +10,7 @@ title: Publications
   <br>
    **Yingying Li**, James A. Preiss, Na Li, Yiheng Lin, Adam Wierman, Jeff Shamma
   <br>
-   Under review.
+   Under review. [[PDF](./files/Online_switching_control_with_stability_and_regret_guarantees.pdf)]
 
 - **Non-asymptotic System Identification for
 Linear Systems with Nonlinear Policies**
