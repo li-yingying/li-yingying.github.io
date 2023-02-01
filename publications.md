@@ -33,13 +33,6 @@ Linear Systems with Nonlinear Policies**
   Under review.
   [[PDF](/files/Safe_Adaptive_Learning_for_Linear_Quadratic_Regulators_with_Constraints.pdf)]
   
-- **Online Optimal Control with Affine Constraints**
-  <br>
-  **Yingying Li**, Subhro Das, Na Li
-  <br>
-  *Thirty-fifth AAAI Conference on Artificial Intelligence **(AAAI)**, 2021.*
-  [[arXiv](https://arxiv.org/pdf/2010.04891.pdf)]
-  
 - **Distributed Reinforcement Learning for Decentralized Linear Quadratic Control: A Derivative-Free Policy Optimization Approach**
   <br>
   **Yingying Li**, Yujie Tang, Runyu Zhang, Na Li (the first two authors contribute equally)
@@ -47,6 +40,15 @@ Linear Systems with Nonlinear Policies**
   *To appear in IEEE Transactions on Automatic Control **(TAC)**, 2022.* 
   [[PDF](https://arxiv.org/pdf/1912.09135.pdf)]
   
+
+- **Online Optimal Control with Affine Constraints**
+  <br>
+  **Yingying Li**, Subhro Das, Na Li
+  <br>
+  *Thirty-fifth AAAI Conference on Artificial Intelligence **(AAAI)**, 2021.*
+  [[arXiv](https://arxiv.org/pdf/2010.04891.pdf)]
+  
+
 - **Online Learning and Distributed Control for Residential Demand Response**
   <br>
   Xin Chen, **Yingying Li**, Jun Shimada, Na Li
