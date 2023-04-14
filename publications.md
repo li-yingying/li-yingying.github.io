@@ -10,7 +10,7 @@ title: Publications
   <br>
    **Yingying Li**, James A. Preiss, Na Li, Yiheng Lin, Adam Wierman, Jeff Shamma
   <br>
-   *5th Annual Learning for Dynamics & Control Conference **(L4DC)**, 2023.*  [[PDF](https://yingying.li/files/Online_switching_control_with_stability_and_regret_guarantees.pdf)]
+   *5th Annual Learning for Dynamics & Control Conference **(L4DC)**, 2023.* **Oral** [[PDF](https://yingying.li/files/Online_switching_control_with_stability_and_regret_guarantees.pdf)]
 
 - **Non-asymptotic System Identification for
 Linear Systems with Nonlinear Policies**
