@@ -17,7 +17,7 @@ Linear Systems with Nonlinear Policies**
   <br>
    **Yingying Li**, Tianpeng Zhang, Subhro Das, Jeff Shamma, Na Li
   <br>
-   *The 22nd World Congress of the International Federation of Automatic Control (**IFAC WC**), 2023.*
+   *The 22nd World Congress of the International Federation of Automatic Control (**IFAC WC**), 2023.*[[PDF](/files/ver2.pdf)]
    
 - **Online Hyperparameter Optimization for Class-Incremental Learning**
   <br>
