@@ -11,7 +11,7 @@ via Set Membership: A Non-Asymptotic Analysis**
   <br>
    **Yingying Li^**, Jing Yu^, Lauren Conger, Adam Wierman
   <br>
-   Submitted [[PDF](https://yingying.li/files/set_membership_stat_analysis.pdf)]
+   Submitted [[PDF](https://yingying.li/files/set_membership_stat_analysis_ver2.pdf)]
 
 - **Online switching control with stability and regret guarantees**
   <br>
