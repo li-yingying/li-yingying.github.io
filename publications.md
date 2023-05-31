@@ -6,6 +6,13 @@ title: Publications
 
 ## Publications
 
+- **Learning the Uncertainty Sets for Control Dynamics
+via Set Membership: A Non-Asymptotic Analysis**
+  <br>
+   **Yingying Li^**, Jing Yu^, Lauren Conger, Adam Wierman
+  <br>
+   Submitted [[PDF](https://yingying.li/files/set_membership_stat_analysis.pdf)]
+
 - **Online switching control with stability and regret guarantees**
   <br>
    **Yingying Li**, James A. Preiss, Na Li, Yiheng Lin, Adam Wierman, Jeff Shamma
