@@ -1,14 +1,8 @@
-<ul>
-    {% for link in site.data.navigation.main %}
-      {% if link.url contains 'http' %}
-        {% assign domain = '' %}
-        {% else %}
-        {% assign domain = base_path %}
-      {% endif %}
-      {% if link.title == page.title %}
-        <li class="active"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-        {% else %}
-        <li><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-</ul>
+{% for link in site.data.navigation.main %}
+  {% if link.right %}
+    <a class="normal right" href="{{ link.url }}">{{ link.title }}</a>
+    {% else %}
+    <a class="normal" href="{{ link.url }}">{{ link.title }}</a>
+  {% endif %}
+{% endfor %}
+

@@ -1,35 +1,47 @@
 # Basic Information 
 title: Yingying Li
-position: Postdoc
-affiliation: California Institute of Technology
-affiliation_link: https://www.cms.caltech.edu/
-department: Computing + Mathematical Sciences Department
-department_link: https://www.cms.caltech.edu/
-email1: yingli2 (at) caltech.edu
-email2: yl101 (at) illinois.edu
-address: Annenberg Center for Information Science and Technology, 330 S Chester Ave, Pasadena, CA 91125
+position: Assistant Professor
+affiliation: University of Illinois Urbana-Champaign
+affiliation_link: https://ise.illinois.edu/
+email: yl101 (at) illinois.edu
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Yingying Li
-description: Yingying Li is currently a postdoc in the Department of Computing and Mathematical Sciences at the California Institute of Technology. Her research lies in online learning, multi-armed bandit, reinforcement learning, decentralized control, and mechanism design with applications in smart grid.
-canonical: https://yingying.li/
+keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
+canonical: https://www.cs.jhu.edu/~yyliu/
+description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: true
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
 google_scholar: https://scholar.google.com/citations?hl=en&user=-b9PTaUAAAAJ
-# resume: https://yingyingli.web.illinois.edu/files/CV_Yingying_new.pdf
+#cv_link: https://files.yliu.me/Yaoyao_Liu_Curriculum_Vitae.pdf
+#github_link: https://github.com/yaoyao-liu/
+#linkedin: https://www.linkedin.com/in/liuyaoyao/
+#twitter: https://twitter.com/YaoyaoLiu1/
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/yingying_li.jpg
-favicon: ./assets/img/favicon-caltech.png
-favicon_dark: ./assets/img/favicon-caltech.png
+# Images 
+avatar: ./images/yingying_li.jpg
+favicon: ./images/favicon.ico
+favicon_dark: ./images/favicon.ico
+
+# Footnotes
+footnote: Feel free to use my website's source code.
+footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
 
 # The following files will be removed from the generated website.
 exclude:
+  - build.sh
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENSE
-
+  - CNAME

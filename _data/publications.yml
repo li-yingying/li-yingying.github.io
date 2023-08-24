@@ -1,0 +1,147 @@
+main:
+
+  - title: "Learning the Uncertainty Sets for Control Dynamics via Set Membership: A Non-Asymptotic Analysis"
+    authors: <strong>Yingying Li*</strong>, Jing Yu*, Lauren Conger, Adam Wierman (*Equal contribution)
+    conference_short: Preprint
+    conference: Under review.
+    pdf: ./files/set_membership_stat_analysis_ver2.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: Online Switching Control with Stability and Regret Guarantees
+    authors: <strong>Yingying Li</strong>, James A. Preiss, Na Li, Yiheng Lin, Adam Wierman, Jeff Shamma
+    conference_short: L4DC
+    conference: 5th Annual Learning for Dynamics & Control Conference <strong>(L4DC)</strong>, 2023.
+    notes: Oral Presentation
+    pdf: ./files/Online_switching_control_with_stability_and_regret_guarantees.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: Non-asymptotic System Identification for Linear Systems with Nonlinear Policies
+    authors: <strong>Yingying Li</strong>, Tianpeng Zhang, Subhro Das, Jeff Shamma, Na Li
+    conference_short: IFAC WC
+    conference: The 22nd World Congress of the International Federation of Automatic Control <strong>(IFAC WC)</strong>, 2023.
+    pdf: ./files/ver2.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: Online Hyperparameter Optimization for Class-Incremental Learning
+    authors: Yaoyao Liu, <strong>Yingying Li</strong>, Bernt Schiele, Qianru Sun
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2301.05032.pdf
+    notes: Oral Presentation
+    image: https://img.yliu.me/teaser/OnlineHyperparameters.png
+
+  - title: Safe Adaptive Learning for Linear Quadratic Regulators with Constraints
+    authors: <strong>Yingying Li</strong>, Tianpeng Zhang, Subhro Das, Jeff Shamma, Na Li
+    conference_short: Preprint
+    conference: Under review.
+    pdf: ./files/Safe_Adaptive_Learning_for_Linear_Quadratic_Regulators_with_Constraints.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: "Distributed Reinforcement Learning for Decentralized Linear Quadratic Control: A Derivative-Free Policy Optimization Approach"
+    authors: <strong>Yingying Li*</strong>, Yujie Tang*, Runyu Zhang, Na Li (*Equal contribution)
+    conference_short: TAC
+    conference: IEEE Transactions on Automatic Control <strong>(TAC)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/1912.09135.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: Online Optimal Control with Affine Constraints
+    authors: <strong>Yingying Li</strong>, Subhro Das, Na Li
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2010.04891.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: Online Learning and Distributed Control for Residential Demand Response
+    authors: Xin Chen, <strong>Yingying Li</strong>, Jun Shimada, Na Li
+    conference_short: TSG
+    conference: IEEE Transactions on Smart Grid <strong>(TSG)</strong>, 2021. 
+    pdf: ./file/tsg_Online_Learning_and_Distributed_Control_for_Residential_Demand_Response.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: On the Regret Analysis of Online LQR Control with Predictions
+    authors: Runyu Zhang, <strong>Yingying Li</strong>, Na Li
+    conference_short: ACC
+    conference: The American Control Conference <strong>(ACC)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2102.01309.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: "Online Optimization with Predictions and Switching Costs: Fast Algorithms and the Fundamental Limit"
+    authors: <strong>Yingying Li</strong>, Guannan Qu, Na Li
+    conference_short: TAC
+    conference: IEEE Transactions on Automatic Control <strong>(TAC)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/1801.07780.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: "Leveraging Predictions in Smoothed Online Convex Optimization via Gradient-based Algorithms"
+    authors: <strong>Yingying Li</strong>, Na Li
+    conference_short: NeurIPS
+    conference: Thirty-fourth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2020.
+    pdf: https://papers.nips.cc/paper/2020/file/a6e4f250fb5c56aaf215a236c64e5b0a-Paper.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: "A Reliability-aware Multi-armed Bandit Approach to Learn and Select Users in Demand Response"
+    authors: <strong>Yingying Li</strong>, Qinran Hu, Na Li
+    conference_short: Automatica
+    conference: Automatica Volume 119, 2020.
+    notes: "Editor's Choice"
+    notes_link: https://www.journals.elsevier.com/automatica/editors-choice/september-2020-automatica
+    pdf: https://arxiv.org/pdf/2003.09505.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: "Distributed Reinforcement Learning for Decentralized Linear Quadratic Control: A Derivative-Free Policy Optimization Approach"
+    authors: <strong>Yingying Li*</strong>, Yujie Tang*, Runyu Zhang, Na Li (*Equal contribution)
+    conference_short: L4DC
+    conference: 2nd Annual Learning for Dynamics & Control Conference <strong>(L4DC)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/1912.09135.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: "Online Optimal Control with Linear Dynamics and Predictions: Algorithms and Regret Analysis"
+    authors: <strong>Yingying Li</strong>, Xin Chen, Na Li
+    conference_short: NeurIPS
+    conference: Thirty-third Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2019.
+    pdf: https://arxiv.org/pdf/1906.11378.pdf
+    code: https://github.com/li-yingying/RHGC
+    slides: https://drive.google.com/file/d/1j_EKJ2v_niRUGLde77idF-8kyaIgGdAA/view
+    image: ./assets/teaser/white.jpeg
+
+  - title: "Online Markov Decision Processes with Time-varying Transition Probabilities and Rewards"
+    authors: <strong>Yingying Li</strong>, Aoxiao Zhong, Guannan Qu, Na Li
+    conference_short: ICML Workshop
+    conference: Real-world Sequential Decision Making workshop at ICML 2019. 
+    pdf: https://realworld-sdm.github.io/paper/25.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: "Online Learning for Markov Decision Processes in Nonstationary Environments: A Dynamic Regret Analysis"
+    authors: <strong>Yingying Li</strong>, Na Li
+    conference_short: ACC
+    conference: The American Control Conference <strong>(ACC)</strong>, 2019.
+    pdf: https://nali.seas.harvard.edu/files/nali/files/2019acc_onlinemdp.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: "Learning and Selecting the Right Customers for Reliability: A Multi-armed Bandit Approach"
+    authors: <strong>Yingying Li</strong>, Qinran Hu, Na Li
+    conference_short: ACC
+    conference: 57th IEEE Conference on Decision and Control <strong>(CDC)</strong>, 2018.
+    pdf: https://scholar.harvard.edu/files/yingyingli/files/2018-2.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: "Using Predictions in Online Optimization with Switching Costs: A Fast Algorithm and A Fundamental Limit"
+    authors: <strong>Yingying Li</strong>, Guannan Qu, Na Li
+    conference_short: ACC
+    conference: The American Control Conference <strong>(ACC)</strong>, 2018.
+    pdf: https://scholar.harvard.edu/files/yingyingli/files/2018-1.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: "Mechanism Design for Reliability in Demand Response with Uncertainty"
+    authors: <strong>Yingying Li</strong>, Na Li
+    conference_short: ACC
+    conference: The American Control Conference <strong>(ACC)</strong>, 2017.
+    pdf: https://scholar.harvard.edu/files/yingyingli/files/2017-1.pdf
+    image: ./assets/teaser/white.jpeg
+
+  - title: "Growing Optimal Scale-free Networks via Likelihood"
+    authors: Michael Small, <strong>Yingying Li</strong>, Thomas Stemler, Kevin Judd
+    conference_short: Physical Review E
+    conference: "Physical Review E 91, no. 4 (2015): 042801"
+    pdf: https://scholar.harvard.edu/files/yingyingli/files/2014-1.pdf
+    image: ./assets/teaser/white.jpeg
