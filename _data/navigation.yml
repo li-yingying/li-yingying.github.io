@@ -3,9 +3,9 @@ main:
   - title: "People"
     url: ./people.html
     right: true 
-    
+
   - title: "Publications"
     url: ./publications.html
 
-  - title: "Home"
+  - title: "Bio"
     url: ./index.html
