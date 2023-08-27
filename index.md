@@ -30,6 +30,6 @@ postdoc in the Department of Computing + Mathematical Sciences at the California
 
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://goo.gl/maps/QsVs7zNRu6NoJjKd6">CSL Building, 1308 W Main Street, Urbana, IL 61801</a>
+<p><strong>Address:</strong> <a href="https://goo.gl/maps/QsVs7zNRu6NoJjKd6">1308 W Main Street, Urbana, IL 61801</a>
 <br />
 <strong>Office Location:</strong> Coordinated Science Lab Room 347
