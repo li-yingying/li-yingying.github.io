@@ -8,7 +8,7 @@ I am an assistant professor in the Department of Industrial and Enterprise Syste
 
 
 
-My research lies in the intersection of statistical/reinforcement learning, control, and optimization. I am especially interested in online and/or distributed learning for control and optimization with safety & optimality guarantees, with applications in smart cities. Things I work on include online optimal control, safe learning-based control,  online convex optimization, reinforcement learning, multi-armed bandit, decentralized learning for control, reliable mechanism design, etc.
+My research lies in the intersection of statistical/reinforcement learning, control, and optimization. I am especially interested in online and/or distributed learning for control and optimization with safety & optimality guarantees, with applications in robotics and smart grids. Things I work on include online optimal control, safe learning-based control,  online convex optimization, reinforcement learning, multi-armed bandit, decentralized learning for control, reliable mechanism design, etc.
 
 
 
