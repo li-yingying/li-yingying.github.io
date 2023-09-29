@@ -14,10 +14,21 @@
   <br>
    <em>{{ link.conference }}</em> 
    <br>
-   [<a href="{{ link.pdf }}">PDF</a>]       
+   {% if link.pdf %} 
+   [<a href="{{ link.pdf }}">PDF</a>]  
+   {% endif %}
+   {% if link.arxiv %} 
+   [<a href="{{ link.arxiv }}">arXiv</a>]  
+   {% endif %}
+   {% if link.code %} 
+   [<a href="{{ link.code }}">Code</a>]  
+   {% endif %}
+   {% if link.slides %} 
+   [<a href="{{ link.code }}">Slides</a>]  
+   {% endif %}
    {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
+   {% endif %}
 </li>
 <br>
 
