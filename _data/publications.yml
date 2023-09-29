@@ -12,14 +12,14 @@ main:
     conference_short: L4DC
     conference: 5th Annual Learning for Dynamics & Control Conference <strong>(L4DC)</strong>, 2023.
     notes: Oral Presentation
-    pdf: ./files/Online_switching_control_with_stability_and_regret_guarantees.pdf
+    pdf: https://proceedings.mlr.press/v211/li23a/li23a.pdf
     image: ./assets/teaser/white.jpeg
 
   - title: Non-asymptotic System Identification for Linear Systems with Nonlinear Policies
     authors: <strong>Yingying Li</strong>, Tianpeng Zhang, Subhro Das, Jeff Shamma, Na Li
     conference_short: IFAC WC
     conference: The 22nd World Congress of the International Federation of Automatic Control <strong>(IFAC WC)</strong>, 2023.
-    pdf: ./files/ver2.pdf
+    pdf: https://arxiv.org/pdf/2306.10369.pdf
     image: ./assets/teaser/white.jpeg
 
   - title: Online Hyperparameter Optimization for Class-Incremental Learning
