@@ -11,3 +11,9 @@ title: People
 
 - Jiawei Li
 - Haonan Xu
+
+<br>
+<h4>Master Students</h4>
+
+- Dhritiman Roy
+- Vansh Porwal
