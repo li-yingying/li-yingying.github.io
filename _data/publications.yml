@@ -1,11 +1,11 @@
 main:
 
   - title: "Learning the Uncertainty Sets for Control Dynamics via Set Membership: A Non-Asymptotic Analysis"
-    authors: <strong>Yingying Li*</strong>, Jing Yu*, Lauren Conger, Adam Wierman (*Equal contribution)
-    conference_short: Preprint
-    conference: Under review.
-    pdf: ./files/set_membership_stat_analysis_ver2.pdf
-    arxiv: https://arxiv.org/pdf/2309.14648.pdf
+    authors: <strong>Yingying Li*</strong>, Jing Yu*, Lauren Conger, Taylan Kargin, Adam Wierman (*Equal contribution)
+    conference_short: ICML
+    conference: Proceedings of the 41st International Conference on Machine
+Learning, 2024
+    pdf: https://arxiv.org/pdf/2309.14648.pdf
     image: ./assets/teaser/white.jpeg
 
   - title: Online Switching Control with Stability and Regret Guarantees
