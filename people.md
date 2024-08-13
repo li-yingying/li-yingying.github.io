@@ -9,11 +9,13 @@ title: People
 <br>
 <h4>Ph.D. Students</h4>
 
-- Jiawei Li
-- Haonan Xu
+- Haonan Xu (ISE)
+- Ziyao Guo (MechE)
+- Jiawei Li (ECE)
+
 
 <br>
 <h4>Master Students</h4>
 
-- Dhritiman Roy
-- Vansh Porwal
+- Dhritiman Roy (ISE)
+- Vansh Porwal (ISE)
