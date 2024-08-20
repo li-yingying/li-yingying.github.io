@@ -11,7 +11,7 @@ title: People
 
 - Haonan Xu (ISE)
 - Ziyao Guo (MechE)
-- Jiawei Li (ECE)
+
 
 
 <br>
