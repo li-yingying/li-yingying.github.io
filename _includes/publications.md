@@ -1,6 +1,6 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 60px 0px -15px;">Publications</h2>
+<h2 style="margin: 60px 0px -15px;">Selected Publications</h2>
 
 <br>
 <ul>
