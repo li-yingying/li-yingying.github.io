@@ -1,9 +1,7 @@
 main:
-
-
-
   - title: "Teaching"
     url: ./teaching.html  
+    right: true
 
   - title: People
     url: ./people.html
