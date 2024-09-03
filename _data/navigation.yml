@@ -1,4 +1,5 @@
 main:
+
   - title: "Teaching"
     url: ./teaching.html  
     right: true
