@@ -1,5 +1,10 @@
 main:
 
+  - title: "Analytic Nonlinear Dynamical System Identification with Non-asymptotic Guarantees"
+    authors: Negin Musavi, Ziyao Guo, <strong>Yingying Li</strong>, Geir Dullerud
+    conference_short: NeurIPS
+    conference: Thirty-Eighth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+
   - title: "Learning the Uncertainty Sets for Control Dynamics via Set Membership: A Non-Asymptotic Analysis"
     authors: <strong>Yingying Li*</strong>, Jing Yu*, Lauren Conger, Taylan Kargin, Adam Wierman (*Equal contribution)
     conference_short: ICML
@@ -29,13 +34,6 @@ main:
     pdf: https://arxiv.org/pdf/2301.05032.pdf
     notes: Oral Presentation
     image: https://img.yliu.me/teaser/OnlineHyperparameters.png
-
-  - title: Safe Adaptive Learning for Linear Quadratic Regulators with Constraints
-    authors: <strong>Yingying Li</strong>, Tianpeng Zhang, Subhro Das, Jeff Shamma, Na Li
-    conference_short: Preprint
-    conference: Under review.
-    pdf: ./files/Safe_Adaptive_Learning_for_Linear_Quadratic_Regulators_with_Constraints.pdf
-    image: ./assets/teaser/white.jpeg
 
   - title: "Distributed Reinforcement Learning for Decentralized Linear Quadratic Control: A Derivative-Free Policy Optimization Approach"
     authors: <strong>Yingying Li*</strong>, Yujie Tang*, Runyu Zhang, Na Li (*Equal contribution)
