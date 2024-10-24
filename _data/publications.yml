@@ -1,7 +1,7 @@
 main:
 
   - title: "Analytic Nonlinear Dynamical System Identification with Non-asymptotic Guarantees"
-    authors: Negin Musavi, Ziyao Guo, <strong>Yingying Li</strong>, Geir Dullerud
+    authors: Negin Musavi, Ziyao Guo, Geir Dullerud, <strong>Yingying Li</strong>
     conference_short: NeurIPS
     conference: Thirty-Eighth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
 
