@@ -26,6 +26,9 @@
    {% if link.slides %} 
    [<a href="{{ link.code }}">Slides</a>]  
    {% endif %}
+   {% if link.supp %} 
+   [<a href="{{ link.supp }}"><i style="color:#e74d3c">Supplementary Material</i></a>]  
+   {% endif %}
    {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
    {% endif %}
