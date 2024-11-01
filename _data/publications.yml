@@ -1,5 +1,11 @@
 main:
 
+  - title: "Non-asymptotic Analysis of Set Membership Estimation for Linear Systems with Disturbances Bounded by Convex Sets"
+    authors: Haonan Xu, <strong>Yingying Li</strong>
+    conference_short: Under review.
+    conference: Under review.
+    supp: https://yingying.li/files/SMEconvex.pdf
+
   - title: "Analytic Nonlinear Dynamical System Identification with Non-asymptotic Guarantees"
     authors: Negin Musavi, Ziyao Guo, Geir Dullerud, <strong>Yingying Li</strong>
     conference_short: NeurIPS
