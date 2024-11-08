@@ -7,7 +7,7 @@
 
 
  <li>
-<a href="https://yingying.li/files/SMEconvex.pdf">Non-asymptotic Analysis of Set Membership Estimation for Linear Systems with Disturbances Bounded by Convex Sets <a style="color:#e74d3c">(Supplementary Material)</a></a>
+<a href="https://yingying.li/files/SMEconvex.pdf">Non-asymptotic Analysis of Set Membership Estimation for Linear Systems with Disturbances Bounded by Convex Sets </a></a>
   <br>
    Haonan Xu, <strong>Yingying Li</strong>
   <br>
