@@ -14,7 +14,7 @@ My research lies in the intersection of statistical/reinforcement learning, cont
 
 
 
-**I am actively looking for self-motivated Ph.D. students and postdocs with a strong background in mathematics and interests in applications of robotics and smart cities. Students with a strong background in mathematics, applied mathematics, statistics, and/or operation research are especially welcome to apply. Please feel free to apply to either the Department of Industrial and Enterprise Systems Engineering or the Department of Electrical and Computer Engineering and mention my name in your application if you are interested in joining our group!**
+**I am actively looking for self-motivated Ph.D. students and postdocs with a strong background in mathematics and interests in applications of robotics and smart cities. Students with a strong background in mathematics, applied mathematics, statistics, and/or operation research are especially welcome to apply. Please feel free to apply to the Department of Industrial and Enterprise Systems Engineering, the Department of Electrical and Computer Engineering, and/or the Department of Mechanical Science and Engineering, and mention my name in your application if you are interested in joining our group!**
 
 
 <!--
