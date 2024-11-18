@@ -1,10 +1,11 @@
 main:
 
-  - title: "Analytic Nonlinear Dynamical System Identification with Non-asymptotic Guarantees"
+  - title: "Identification of Analytic Nonlinear Dynamical Systems with Non-asymptotic Guarantees"
     authors: Negin Musavi, Ziyao Guo, Geir Dullerud, <strong>Yingying Li</strong>
     conference_short: NeurIPS
     conference: Thirty-Eighth Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-
+    pdf: https://arxiv.org/pdf/2411.00656
+    
   - title: "Learning the Uncertainty Sets for Control Dynamics via Set Membership: A Non-Asymptotic Analysis"
     authors: <strong>Yingying Li*</strong>, Jing Yu*, Lauren Conger, Taylan Kargin, Adam Wierman (*Equal contribution)
     conference_short: ICML
