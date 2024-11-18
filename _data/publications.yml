@@ -9,7 +9,8 @@ main:
     authors: <strong>Yingying Li*</strong>, Jing Yu*, Lauren Conger, Taylan Kargin, Adam Wierman (*Equal contribution)
     conference_short: ICML
     conference: Proceedings of the 41st International Conference on Machine Learning <strong>(ICML)</strong>, 2024
-    pdf: "https://arxiv.org/pdf/2309.14648.pdf"
+    arxiv: "https://arxiv.org/pdf/2309.14648.pdf"
+    openreview: "https://openreview.net/pdf?id=n2kq2EOHFE"
     image: ./assets/teaser/white.jpeg
 
   - title: Online Switching Control with Stability and Regret Guarantees
