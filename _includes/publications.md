@@ -33,6 +33,9 @@
    {% if link.pdf %} 
    [<a href="{{ link.pdf }}">PDF</a>]  
    {% endif %}
+   {% if link.openreview %} 
+   [<a href="{{ link.openreview }}">OpenReview</a>]  
+   {% endif %}
    {% if link.arxiv %} 
    [<a href="{{ link.arxiv }}">arXiv</a>]  
    {% endif %}
