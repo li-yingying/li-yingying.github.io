@@ -11,7 +11,6 @@ title: People
 
 - Haonan Xu 
 - Ziyao Guo
-- Jiawei Li
 
 
 
