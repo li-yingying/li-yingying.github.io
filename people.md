@@ -7,15 +7,13 @@ title: People
 
 <h2 style="margin: 60px 0px -15px;">People</h2>
 <br>
-<h4>Ph.D. Students</h4>
+<h4 style="margin: 0px 0px 0px;">Ph.D. Students</h4>
 
 - Haonan Xu 
 - Ziyao Guo
 
-
-
 <br>
-<h4>Master Students</h4>
+<h4 style="margin: 0px 0px 0px;">Master Students</h4>
 
 - Dhritiman Roy 
 - Vansh Porwal 
