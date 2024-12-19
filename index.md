@@ -10,11 +10,11 @@ I am an assistant professor in the Department of Industrial and Enterprise Syste
 
 
 
-My research lies in the intersection of statistical/reinforcement learning, control, and optimization. I am especially interested in online and/or distributed learning for control and optimization with safety & optimality guarantees, with applications in robotics and smart grids. Things I work on include online optimal control, safe learning-based control,  online convex optimization, reinforcement learning, multi-armed bandit, decentralized learning for control, reliable mechanism design, etc.
+My research lies in the intersection of statistical/reinforcement learning, control, and optimization. I am especially interested in online and/or distributed learning for control and optimization with safety & optimality guarantees, with applications in smart grids and smart cities. Things I work on include online optimal control, safe learning-based control, online convex optimization, reinforcement learning, multi-armed bandit, decentralized learning for control, reliable mechanism design, etc.
 
 
 
-**I am actively looking for self-motivated Ph.D. students and postdocs with a strong background in mathematics and interests in applications of robotics and smart cities. Students with a strong background in mathematics, applied mathematics, statistics, and/or operation research are especially welcome to apply. Please feel free to apply to the Department of Industrial and Enterprise Systems Engineering, the Department of Electrical and Computer Engineering, and/or the Department of Mechanical Science and Engineering, and mention my name in your application if you are interested in joining our group!**
+**I am actively looking for self-motivated Ph.D. students and postdocs with a strong background in mathematics and interests in applications of network and multi-agent systems. Students with a strong background in mathematics, applied mathematics, statistics, and/or operation research are especially welcome to apply. Please feel free to apply to the Department of Industrial and Enterprise Systems Engineering, the Department of Electrical and Computer Engineering, and/or the Department of Mechanical Science and Engineering, and mention my name in your application if you are interested in joining our group!**
 
 
 <!--
