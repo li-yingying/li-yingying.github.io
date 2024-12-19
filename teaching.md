@@ -9,3 +9,4 @@ title: Teaching
 <br>
 
 - IE598 Dynamic Programming and Reinforcement Learning
+- SE320 Control Systems
