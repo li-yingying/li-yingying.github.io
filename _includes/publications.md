@@ -1,5 +1,5 @@
 <h1 id="publications"></h1>
-
+<!--
 <h2 style="margin: 60px 0px -15px;">Under Review and Supplementary Materials</h2>
 
 <br>
@@ -15,7 +15,7 @@
    [<a href="https://yingying.li/files/SMEconvex.pdf" style="color:#e74d3c">Supplementary Material PDF</a>]  
 </li>
 </ul>
-
+-->
 <h2 style="margin: 60px 0px -15px;">Selected Publications</h2>
 
 <br>
